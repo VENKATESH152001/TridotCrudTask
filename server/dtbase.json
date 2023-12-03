@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Onion",
+      "price": 65,
+      "oldPrice": "25",
+      "category": "Vegetables",
+      "isActive": true,
+      "description": "Fram Fresh  tomatoes"
+    },
+    {
+      "id": "2",
+      "productName": "diary milk",
+      "price": "179",
+      "oldPrice": "190",
+      "category": "Dairy & creams",
+      "isActive": "on",
+      "description": "specially for rasi"
+    },
+    {
+      "id": "3",
+      "productName": "apple",
+      "price": "300",
+      "oldPrice": "250",
+      "category": "Fruits & Nuts",
+      "isActive": "on",
+      "description": "apple is eat for good health"
+    },
+    {
+      "id": "4",
+      "productName": "cake",
+      "price": "499",
+      "oldPrice": "559",
+      "category": "Packages Food",
+      "isActive": "on",
+      "description": "blassing flavour with berry blast"
+    },
+    {
+      "id": "5",
+      "productName": "maggi",
+      "price": "50",
+      "oldPrice": "65",
+      "category": "Packages Food",
+      "isActive": "on",
+      "description": "dried noodles fused with solid and oil with enriched flavour"
+    }
+  ]
+}
